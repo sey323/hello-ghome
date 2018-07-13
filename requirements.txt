@@ -1,0 +1,4 @@
+pychromecast
+gTTS
+tensorflow
+numpy
